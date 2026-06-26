@@ -2,7 +2,7 @@
 #include <bits/stdc++.h>
 
 #include "assembler.cpp"
-#include "processor.cpp"
+#include "Processor/processor.cpp"
 
 using namespace std;
 
