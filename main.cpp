@@ -1,7 +1,7 @@
 #include <iostream>
 #include <bits/stdc++.h>
 
-#include "assembler.cpp"
+#include "Assembler/assembler.cpp"
 #include "Processor/processor.cpp"
 
 using namespace std;
