@@ -1,7 +1,7 @@
 #include <iostream>
 #include <bits/stdc++.h>
-#include "instructions.h"
-#include "registers.h"
+#include "Core/instructions.h"
+#include "Core/registers.h"
 
 using namespace std;
 
