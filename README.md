@@ -1,6 +1,6 @@
 # MIPS Processor Architecture Simulator
 
-A modular, cycle-accurate single-cycle MIPS CPU simulator written in C++. This project models the complete physical 5-stage instruction pipeline (**Fetch, Decode, Execute, Memory, and Write-back**) using object-oriented architectural components. It includes a custom programmatic assembler tokenizer, removing dependencies on external regex or heavy parsing libraries.
+A modular, cycle-accurate single-cycle MIPS CPU simulator written in C++. This project models the complete physical 5-stage instruction pipeline (**Fetch, Decode, Execute, Memory, and Write-back**) using object-oriented architectural components. 
 
 ---
 
